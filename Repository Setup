@@ -1,0 +1,7 @@
+automated-testing-suite/
+├── src/
+│   ├── API/
+│   ├── Web/
+│   ├── TestResults/
+│   └── Docs/
+└── test-runner/
