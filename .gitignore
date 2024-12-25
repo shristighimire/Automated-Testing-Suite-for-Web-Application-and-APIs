@@ -1,0 +1,25 @@
+text
+# .NET build artifacts
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# NuGet packages
+packages/
+
+# User-specific files
+*.user
+*.suo
+
+# IDE-specific files
+.vs/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
