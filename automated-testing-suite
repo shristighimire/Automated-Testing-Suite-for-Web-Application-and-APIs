@@ -1,0 +1,16 @@
+automated-testing-suite/
+├── .gitignore
+├── README.md
+├── src/
+│   ├── API/
+│   │   ├── ApiTests.cs
+│   │   └── PostmanCollection.json
+│   ├── Web/
+│   │   ├── WebTests.cs
+│   │   └── SeleniumDriverSetup.cs
+│   ├── TestResults/
+│   │   └── test-results.log
+│   └── Docs/
+│       └── README.md
+└── test-runner/
+    └── run-tests.bat
